@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\SerializeReparte\bin\Debug\net6.0\SerializeReparte.exe
+C:\Users\hp\source\repos\SerializeReparte\bin\Debug\net6.0\SerializeReparte.deps.json
+C:\Users\hp\source\repos\SerializeReparte\bin\Debug\net6.0\SerializeReparte.runtimeconfig.json
+C:\Users\hp\source\repos\SerializeReparte\bin\Debug\net6.0\SerializeReparte.dll
+C:\Users\hp\source\repos\SerializeReparte\bin\Debug\net6.0\SerializeReparte.pdb
+C:\Users\hp\source\repos\SerializeReparte\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.AssemblyInfo.cs
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\Serializ.415E9E20.Up2Date
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.dll
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\refint\SerializeReparte.dll
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.pdb
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\SerializeReparte.genruntimeconfig.cache
+C:\Users\hp\source\repos\SerializeReparte\obj\Debug\net6.0\ref\SerializeReparte.dll
